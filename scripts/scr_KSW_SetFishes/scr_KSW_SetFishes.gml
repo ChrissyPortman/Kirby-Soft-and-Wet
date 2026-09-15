@@ -1905,7 +1905,7 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Hellhound",spr_KSW_Fish_Hellhound,spr_KSW_Fish_Hellhound_Pal,series_Bloodstained,borange,0,serranoSprings,KSW_Phases.night,600);
 	scr_KSW_AddFish("Wyrm",spr_KSW_Fish_Wyrm,spr_KSW_Fish_Wyrm_Pal,series_Bloodstained,borange,1,serranoSprings,KSW_Phases.none,2000);
 	scr_KSW_AddFish("Skulletomb",spr_KSW_Fish_Skulletomb,spr_KSW_Fish_Skulletomb_Pal,series_Pokemon,borange,1,hallowReen,KSW_Phases.night,250,-51,-42);
-    scr_KSW_AddFish("Skeletomb",spr_KSW_Fish_Skeletomb,spr_KSW_Fish_Skeletomb_Pal,series_Pokemon,borange,2,hallowReen,KSW_Phases.night,1000,);
+    scr_KSW_AddFish("Skeletomb",spr_KSW_Fish_Skeletomb,spr_KSW_Fish_Skeletomb_Pal,series_Pokemon,borange,2,hallowReen,KSW_Phases.night,1000,-119,-65);
 	#endregion
 	#endregion
 }
